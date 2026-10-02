@@ -1,5 +1,5 @@
 // Sube este número cada vez que cambies index.html para que los móviles cojan la versión nueva
-const VERSION = "menu-v1";
+const VERSION = "menu-v2";
 const CORE = ["./", "index.html", "manifest.webmanifest", "favicon.png",
   "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png"];
 
